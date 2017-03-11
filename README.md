@@ -13,7 +13,7 @@ LIS 2360:  Web Application Development
 (In this assignment we learn how to build an application that displays a photo gallery of images using javascript)
 
 ### View Project:
-(https://github.com/Calvin137/lesson6_javascript3)
+(https://calvin137.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
 1. (Access elements by id)
